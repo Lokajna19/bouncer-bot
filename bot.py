@@ -6,8 +6,7 @@ while True:
         continue
     name=input("Enter your name ? \n")
         
-    if age >= 18:
-            
+    if age >= 18:           
          print(f"{name} is eligible to vote in india!")
          continue
     else:
